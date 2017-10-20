@@ -1,0 +1,9 @@
+c:\users\tuantin\documents\visual studio 2012\Projects\New\New\bin\Debug\New.exe.config
+c:\users\tuantin\documents\visual studio 2012\Projects\New\New\bin\Debug\New.exe
+c:\users\tuantin\documents\visual studio 2012\Projects\New\New\bin\Debug\New.pdb
+c:\users\tuantin\documents\visual studio 2012\Projects\New\New\obj\Debug\New.csprojResolveAssemblyReference.cache
+c:\users\tuantin\documents\visual studio 2012\Projects\New\New\obj\Debug\New.Properties.Resources.resources
+c:\users\tuantin\documents\visual studio 2012\Projects\New\New\obj\Debug\New.csproj.GenerateResource.Cache
+c:\users\tuantin\documents\visual studio 2012\Projects\New\New\obj\Debug\New.exe
+c:\users\tuantin\documents\visual studio 2012\Projects\New\New\obj\Debug\New.pdb
+c:\users\tuantin\documents\visual studio 2012\Projects\New\New\obj\Debug\New.Main.resources
